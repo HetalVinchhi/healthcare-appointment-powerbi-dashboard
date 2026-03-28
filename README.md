@@ -1,5 +1,9 @@
 # 🏥 Healthcare Appointment Scheduling Dashboard (Power BI)
 
+
+![Healthcare Appointment Scheduling Dashboard - PowerBI](./healthcare-dashboard.png)
+
+
 ## 📌 Project Overview
 
 Efficient appointment scheduling is critical in healthcare to ensure timely patient care and optimal utilization of providers. However, challenges such as long waiting times, uneven workload distribution, and fluctuating demand can impact service quality.
